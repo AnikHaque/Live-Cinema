@@ -1,4 +1,4 @@
-# Live-Cinema
+# Live-Cinema website
 <h1>Technology used:</h1>
 <li>Vue.js</li>
 <li>Javascript</li>
